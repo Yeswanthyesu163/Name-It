@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 5df9115964f566127a1defeb48b5e487cd65aa38762eaf6e1d8cfada5ea1ac3a
+- filename: src/components/SearchBox/SearchBox.jsx
+  checksum: c56fa163c1c0200757d849a99c1df638add7f41c68f6c6b7eb2f35466cb5498b
+- filename: src/components/ResultsContainer/ResultsContainer.jsx
+  checksum: ee899a1d9ffa25c833d869996d4107046eba237d7ac4790b62526ea4d276e7e0
+version: ""
